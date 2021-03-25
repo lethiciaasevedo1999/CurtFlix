@@ -19,6 +19,30 @@ body{
 
 }
 
+/*Utilização do Flexbox para alinhamento dos elementos em tela*/
 header .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
     
+}
+
+header .logo {
+    margin-left: 5px;
+    color: var(--vermelho); /*É assim que utiliza-se a variável no CSS*/
+    font-family: 'Arial Black',  Times ;
+    font-size: 40px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+}
+
+/*"HOVER" serve para dar a característica de mudança de cor do elemento
+quando passar o mouse em cima do mesmo*/
+header nav a:hover{
+    color: #fff;
 }
