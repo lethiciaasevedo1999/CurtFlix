@@ -1,0 +1,24 @@
+/* "root" serve para declarar uma variável no CSS, neste código a dica de utilizar a 
+variável é que já sabemos as cores do site definitivamente, então vamos declarar
+para que seja mais fácil a alteração da folha de estilo*/
+
+:root {
+    --vermelho : #e50914;
+    --preto : #141414;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   background: var(--preto);
+   font-family: 'Times New Roman', Times, serif;
+
+}
+
+header .container {
+    
+}
