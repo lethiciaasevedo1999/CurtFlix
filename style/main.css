@@ -16,6 +16,7 @@ para que seja mais fácil a alteração da folha de estilo*/
 body{
    background: var(--preto);
    font-family: 'Times New Roman', Times, serif;
+   color: #fff;
 
 }
 
