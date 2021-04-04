@@ -1,2 +1,2 @@
-# NovelaFlix
-NovelaFlix é plataforma perfeita para você ver e rever as suas novelas prediletas 
+# CurtFlix
+CURTFLIX é a plataforma perfeita para você assistir curtas e descobrir coisas novas. 
