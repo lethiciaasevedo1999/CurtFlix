@@ -13,6 +13,12 @@ para que seja mais fácil a alteração da folha de estilo*/
     box-sizing: border-box;
 }
 
+/*Elementos base*/
+.filme-principal{
+    font-size: 16px;
+    background: url('/img/hoje-eu-nao-quero-voltar-sozinho.png');
+}
+
 body{
    background: var(--preto);
    font-family: 'Times New Roman', Times, serif;
