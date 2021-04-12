@@ -109,3 +109,9 @@ quando passar o mouse em cima do mesmo*/
 header nav a:hover{
     color: #fff;
 }
+
+.box-curta{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
