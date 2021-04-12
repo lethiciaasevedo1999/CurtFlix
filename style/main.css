@@ -20,6 +20,15 @@ para que seja mais fácil a alteração da folha de estilo*/
 
     height: 400px;
     background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal{
+    margin-bottom: 90px;
 }
 
 body{
