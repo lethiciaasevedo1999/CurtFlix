@@ -27,8 +27,12 @@ para que seja mais fácil a alteração da folha de estilo*/
     align-items: flex-start;
 }
 
-.filme-principal{
+.filme-principal .sinopse{
     margin-bottom: 90px;
+}
+
+.titulo{
+    font-size: 70px;
 }
 
 body{
