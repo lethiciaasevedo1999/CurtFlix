@@ -66,6 +66,15 @@ para que seja mais fácil a alteração da folha de estilo*/
     margin-right: 8px;
 }
 
+.container{
+    margin-left: 20px;
+}
+
+
+.filme-principal .container{
+    max-width: 70%;
+}
+
 body{
    background: var(--preto);
    font-family: 'Times New Roman', Times, serif;
