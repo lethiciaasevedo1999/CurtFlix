@@ -60,7 +60,10 @@ para que seja mais fácil a alteração da folha de estilo*/
 .botao:hover{
     background-color: white;
     color: black;
+}
 
+.botao i{
+    margin-right: 8px;
 }
 
 body{
