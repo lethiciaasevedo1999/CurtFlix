@@ -16,7 +16,10 @@ para que seja mais fácil a alteração da folha de estilo*/
 /*Elementos base*/
 .filme-principal{
     font-size: 16px;
-    background: url('/img/hoje-eu-nao-quero-voltar-sozinho.png');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url('/img/hoje-eu-nao-quero-voltar-sozinho.png');
+
+    height: 400px;
+    background-size: cover;
 }
 
 body{
