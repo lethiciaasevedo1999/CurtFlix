@@ -72,7 +72,7 @@ para que seja mais fácil a alteração da folha de estilo*/
 
 body{
    background: var(--preto);
-   font-family: 'Times New Roman', Times, serif;
+   font-family: 'Arial', Times, serif;
    color: #fff;
 
 }
@@ -109,4 +109,8 @@ header nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+}
+
+.corrosel-curtas{
+    margin-top: 5px;
 }
